@@ -1,7 +1,4 @@
-// kk4036_hw12_using_Overload_Op.cpp
-//
 
-#include "pch.h"
 #include <iostream>
 #include <vector>
 #include <iomanip>
